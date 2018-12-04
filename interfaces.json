@@ -1,0 +1,12 @@
+{"Vrep35":{
+    "address": "127.0.0.1",
+    "port": -1,
+    "wait": true,
+    "tryReconnect": true,
+    "timeOut": 5000,
+    "threadCycle": 5,
+    "episodic": true,
+    "softReset": false,
+    "headless": false
+  }
+}
